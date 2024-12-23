@@ -104,8 +104,8 @@ done
 
 # settings
 settings put global tran_dts_qs_support 1
+settings put global dtsMode AutoContentMode
 #settings put global tran_dual_mic_support 1
-#settings put global dtsMode AutoContentMode
 
 # list
 PKGS=`cat $MODPATH/package.txt`

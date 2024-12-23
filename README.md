@@ -15,7 +15,7 @@
 - libmagiskpolicy.so: Kitsune Mask R6687BB53
 
 ## Screenshots
-- 
+- https://t.me/ryukimodsscreenshots/34
 
 ## Requirements
 - arm64-v8a or armeabi-v7a architecture
@@ -23,7 +23,7 @@
 - Magisk or KernelSU installed
 
 ## Installation Guide & Download Link
-- Install this module https://www.pling.com/p// via Magisk app or KernelSU app or Recovery if Magisk installed
+- Install this module https://www.pling.com/p/2234127/ via Magisk app or KernelSU app or Recovery if Magisk installed
 - Install AML Magisk Module https://t.me/androidryukimodsdiscussions/29836 only if using any other else audio mod module
 - Reboot
 - If you are using KernelSU, you need to allow superuser list manually all package name listed in package.txt (and your home launcher app also) (enable show system apps) and reboot afterwards
