@@ -1,1 +1,8 @@
-
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+    <hidden-api-whitelisted-app package="com.transsion.dtsaudio"/>
+    <allow-implicit-broadcast action="dts.dtssdk.intent.action.AUDIO_ROUTE_CHANGED"/>
+    <allow-implicit-broadcast action="dts.dtssdk.intent.action.GET_DTS_STATE"/>
+    <allow-implicit-broadcast action="dts.dtssdk.intent.action.SET_DTS_ENABLED"/>
+    <allow-implicit-broadcast action="dts.dtssdk.intent.action.SET_DTS_DISABLED"/>
+</config>
