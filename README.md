@@ -6,7 +6,7 @@
 
 ## Descriptions
 - Equalizer sound effect ported from Infinix ZERO ULTRA (Infinix-X6820) and integrated as a Magisk Module for all supported and rooted devices with Magisk
-- Post process type soundfx
+- Post process type sound effect
 - Changes/spoofs ro.build.product to x6820_h773 and ro.product.model to Infinix X6820 which may break some system apps and features functionality
 
 ## Sources
