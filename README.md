@@ -29,18 +29,21 @@
 - If you are using KernelSU, you need to allow superuser list manually all package name listed in package.txt (and your home launcher app also) (enable show system apps) and reboot afterwards
 - If you are using SUList, you need to allow list manually your home launcher app (enable show system apps) and reboot afterwards
 
-## Troubleshootings and Optionals
-- https://t.me/androidryukimodsdiscussions/3107
-- Global: https://t.me/androidryukimodsdiscussions/29836
-- Global: https://t.me/androidryukimodsdiscussions/60861
-- Stream: https://t.me/androidryukimodsdiscussions/26764
+## Optionals
+- https://t.me/ryukinotes/65
+- Global: https://t.me/ryukinotes/35
+- Stream: https://t.me/ryukinotes/52
+
+## Troubleshootings
+- https://t.me/ryukinotes/65
+- Global: https://t.me/ryukinotes/34
 
 ## Support & Bug Report
-- https://t.me/androidryukimodsdiscussions/2618
+- https://t.me/ryukinotes/54
 - If you don't do above, issues will be closed immediately
 
 ## Known Issues
-- Boost Bass, Treble, & Vocal doesn't work in headset nor bluetooth
+- Boost Bass, Treble, & Vocal doesn't work in headset nor Bluetooth Audio
 - Probably still bug microphone in game apps in some devices
 
 ## Credits and Contributors
