@@ -17,6 +17,37 @@
 ## Screenshots
 - https://t.me/ryukimodsscreenshots/34
 
+## Changelog
+
+v0.7
+- Does not disable raw playback (You can use Audio Compatibility Patch Reborn Magisk Module instead)
+
+v0.6
+- Fix wrong target in latest KernelSU
+
+v0.5-R
+- Fix wrong file permissions in some ROMs
+
+v0.5
+-Tidy up aml.sh
+- Exclude audioeffectshaptic.xml
+- Abort installation if fail to mount mirror system
+
+v0.4
+- Improve /odm and /my_product support detection
+
+v0.3
+- Fix script bug at installation for libsqlite.so detections
+
+v0.2
+- Forgot to add libmagiskpolicy.so
+- Add Action button to clear apps caches
+- Fix architecture detection in some weird ROMs
+- Fix bug in uninstall.sh
+
+v0.1
+- Initial release
+
 ## Requirements
 - arm64-v8a or armeabi-v7a architecture
 - Android 8.0 (SDK 26) and up
@@ -24,7 +55,7 @@
 - Magisk or Kitsune Mask or KernelSU or Apatch installed
 
 ## Installation Guide & Download Link
-- Install this module https://www.pling.com/p/2234127/ via Magisk app or Kitsune Mask app or KernelSU app or Apatch app or Recovery if Magisk or Kitsune Mask installed
+- Install this module via Magisk app or Kitsune Mask app or KernelSU app or Apatch app or Recovery if Magisk or Kitsune Mask installed
 - Install AML Magisk Module https://t.me/androidryukimodsdiscussions/29836 only if using any other else audio mod module
 - Reboot
 - If you are using KernelSU, you need to allow superuser list manually all package name listed in package.txt (and your home launcher app also) (enable show system apps) and reboot afterwards
