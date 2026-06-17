@@ -12,12 +12,14 @@
 ## Sources
 - https://dumps.tadiphone.dev/dumps/Infinix/infinix-x6820 sys_tssi_64_armv82_infinix-user-13-TP1A.220624.014-396124-release-keys
 - libsqlite.so: https://dumps.tadiphone.dev/dumps/zte/p855a01 msmnile-user-11-RKQ1.201221.002-20211215.223102-release-keys
-- libmagiskpolicy.so: Kitsune Mask R6687BB53
-
-## Screenshots
-- https://t.me/ryukimodsscreenshots/34
+- libmagiskpolicy.so: Magisk (stable) 30.7 (30700)
 
 ## Changelog
+
+v0.8
+- Support NoMount metamodule
+- Update libmagiskpolicy.so from Magisk (stable) 30.7 (30700)
+- Move _uninstall.log to /data/adb/logs/
 
 v0.7
 - Does not disable raw playback (You can use Audio Compatibility Patch Reborn Magisk Module instead)
@@ -30,7 +32,7 @@ v0.5-R
 
 v0.5
 -Tidy up aml.sh
-- Exclude audioeffectshaptic.xml
+- Exclude \*audio\*effects\*haptic\*.xml
 - Abort installation if fail to mount mirror system
 
 v0.4
@@ -48,6 +50,9 @@ v0.2
 v0.1
 - Initial release
 
+## Screenshots
+https://t.me/ryukimodsscreenshots/34
+
 ## Requirements
 - arm64-v8a or armeabi-v7a architecture
 - Android 8.0 (SDK 26) and up
@@ -55,7 +60,7 @@ v0.1
 - Magisk or Kitsune Mask or KernelSU or Apatch installed
 
 ## Installation Guide & Download Link
-- Install this module https://devuploads.com/buvrrzlt01kc via Magisk app or Kitsune Mask app or KernelSU app or Apatch app or Recovery if Magisk or Kitsune Mask installed
+- Install this module via Magisk app or Kitsune Mask app or KernelSU app or Apatch app or Recovery if Magisk or Kitsune Mask installed
 - Install AML Magisk Module https://t.me/androidryukimodsdiscussions/29836 only if using any other else audio mod module
 - Reboot
 - If you are using KernelSU, you need to allow superuser list manually all package name listed in package.txt (and your home launcher app also) (enable show system apps) and reboot afterwards
@@ -84,6 +89,6 @@ v0.1
 - You can contribute ideas about this Magisk Module here: https://t.me/androidappsportdevelopment
 
 ## Sponsors
-- https://t.me/ryukinotes/25
+https://t.me/ryukinotes/25
 
 
